@@ -1,4 +1,4 @@
-# **OLÁ, EU SOU O GUILHERME PRADO!📌👀💻**
+# **Olá, eu sou o Guilherme Prado!👀💻**
 
 ## **VOCÊ ME ENCONTRA EM:**
 
