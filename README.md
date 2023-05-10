@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prado.gmp/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-moreira-857714259/)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=prado-gmp&show_icons=true&theme=tokyonight)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=prado-gmp&show_icons=true&theme=dark)
 ___
 
 ## **TÉCNOLOGIAS QUE UTILIZO:**
@@ -13,7 +13,7 @@ ___
 ) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 ) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prado-gmp&layout=compact)](https://github.com/prado-gmp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prado-gmp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
 ## **UM POUCO SOBRE MIM:**
