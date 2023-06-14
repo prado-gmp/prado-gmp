@@ -1,10 +1,14 @@
-# **Olá, eu sou o Guilherme Prado!👀💻**
+# **OLÁ, MEU NOME É GUILHERME MOREIRA 🚀**
 
 ## **VOCÊ ME ENCONTRA EM:**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prado.gmp/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-moreira-857714259/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-moreira-857714259/)
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=prado-gmp&show_icons=true&theme=dark)
+___
+
+## **MEU GITHUB STATS:**
+
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=prado-gmp&show_icons=true&theme=tokyonight)
 ___
 
 ## **TÉCNOLOGIAS QUE UTILIZO:**
@@ -13,19 +17,19 @@ ___
 ) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 ) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prado-gmp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prado-gmp&layout=compact)](https://github.com/prado-gmp/github-readme-stats)
 ___
 
 ## **UM POUCO SOBRE MIM:**
- - 🎓 Atualmente cursando ensino superior de **Gestão de TI** na FATEC São Sebastião;
+ - Cursando ensino superior de **Gestão de TI** na FATEC de São Sebastião;
 
-- 👨🏻‍🎓 Formado como **Técnico em Administração** com eixo técnológico em **Gestão e Negócios** pela ETEC São Sebastião;
+- Formado como **Técnico em Administração** com eixo técnológico em **Gestão e Negócios** pela ETEC de São Sebastião;
 
-- ❤️‍ Amo **técnologia** e tudo que ela engloba, desde suas novidades, até suas mais discretas caracteristicas;
+- Adoro **técnologia** e tudo que ela engloba, desde suas novidades, até suas mais discretas características;
 
-- ⚡ Prático exercicios físicos e psicólogicos, a mente e corpo devem **sempre caminhar juntos**;
+- Prático exercicios físicos e psicólogicos, a mente e o corpo devem **sempre trabalhar juntos**;
 
-- 💻 Buscando a primeira experiência nesse vasto mercado, com o objetivo em atuar como **Desenvolvedor Web Full Stack**;
+- Atuando como **freelancer** e **procurando oportunidade no mercado**;
 
-- 🌿 Apaixonado pela natureza e tudo que ela nos oferece, **grato por tudo** ao meu redor;
+
 
